@@ -12,10 +12,10 @@
 
 ### Day 2: February 4, 2021
 
-**Today's Progress: Codelab (Intro to dart for java developers) [link](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)**
+**Today's Progress: Codelab (Intro to dart for java developers) [link](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0) Practised the first two exercises**
 
-**Thoughts: I need to revise Java a bit**
+**Thoughts: I need to revise Java a bit before proceeding to complete the next codelabs**
 
-**Link to work:**
+**Link to work: [Gist](https://gist.github.com/umang-sinha/1649b0926adb45b4acd7548375d8b605)**
 
 
