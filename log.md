@@ -18,4 +18,12 @@
 
 **Link to work: [Gist](https://gist.github.com/umang-sinha/1649b0926adb45b4acd7548375d8b605)**
 
+### Day 3: February 5, 2021
+
+**Today's Progress: Completed watching the first three videos from the 30DaysOfFlutter YouTube playlist by Codepur**
+
+**Thoughts: I am starting to like flutter**
+
+**Link to work: [GitHub](https://github.com/umang-sinha/flutter_catalog)**
+
 
