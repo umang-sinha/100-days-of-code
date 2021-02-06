@@ -26,4 +26,12 @@
 
 **Link to work: [GitHub](https://github.com/umang-sinha/flutter_catalog)**
 
+### Day 4: February 6, 2021
+
+**Today's Progress: Completed watching the day4 and day5 videos from the 30DaysOfFlutter YouTube playlist by Codepur**
+
+**Thoughts: I can build stuff on my own. I feel confident**
+
+**Link to work: [GitHub](https://github.com/umang-sinha/flutter_catalog)**
+
 
