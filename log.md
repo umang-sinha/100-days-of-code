@@ -34,4 +34,13 @@
 
 **Link to work: [GitHub](https://github.com/umang-sinha/flutter_catalog)**
 
+### Day 5: February 13, 2021
+
+**Today's Progress: Started competitive programming. Solved a few problems on codechef and codeforces. Started watching MIT 6.006. Watched some part of L1 and R1**
+
+**Thoughts: I am liking this.**
+
+**Link to work: [GitHub Codeforces](https://github.com/umang-sinha/codeforces_solutions) [Github Codechef](https://github.com/umang-sinha/codechef_solutions)**
+
+
 
