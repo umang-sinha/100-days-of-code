@@ -42,5 +42,13 @@
 
 **Link to work: [GitHub Codeforces](https://github.com/umang-sinha/codeforces_solutions) [Github Codechef](https://github.com/umang-sinha/codechef_solutions)**
 
+### Day 6: February 14, 2021
+
+**Today's Progress: Solved a few problems on codechef and codeforces**
+
+**Thoughts: I am liking this.**
+
+**Link to work: [GitHub Codeforces](https://github.com/umang-sinha/codeforces_solutions) [Github Codechef](https://github.com/umang-sinha/codechef_solutions)**
+
 
 
