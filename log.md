@@ -50,5 +50,12 @@
 
 **Link to work: [GitHub Codeforces](https://github.com/umang-sinha/codeforces_solutions) [Github Codechef](https://github.com/umang-sinha/codechef_solutions)**
 
+### Day 7: March 8, 2021
+
+**Today's Progress: Created a virtual assistant that performs simple tasks based on the speech input given by the user**
+
+**Thoughts: Built something using python for the first time. Python is actually quite easy**
+
+**Link to work: [Virtual assistant](https://github.com/umang-sinha/virtual-assistant)**
 
 
