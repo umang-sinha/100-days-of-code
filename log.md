@@ -48,7 +48,7 @@
 
 **Thoughts: I am liking this.**
 
-**Link to work: [GitHub Codeforces](https://github.com/umang-sinha/codeforces_solutions) [Github Codechef](https://github.com/umang-sinha/codechef_solutions)**
+**Link to work: [GitHub Codeforces](https://github.com/umang-sinha/codeforces_solutions), [Github Codechef](https://github.com/umang-sinha/codechef_solutions)**
 
 ### Day 7: March 8, 2021
 
@@ -57,5 +57,13 @@
 **Thoughts: Built something using python for the first time. Python is actually quite easy**
 
 **Link to work: [Virtual assistant](https://github.com/umang-sinha/virtual-assistant)**
+
+### Day 8: March 9, 2021
+
+**Today's Progress: Tried replicating Tom Scott's YouTube video where the title of the video updates dynamically according to the number of views. In my case the title updates to reflect the number of view, likes, dislikes and comments**
+
+**Thoughts: Discovered something called Google Apps Script. Seems quite fun. Can think of some automation projects to do using this**
+
+**Link to work: [Youtube](https://youtu.be/OHR47VYV5nI), [GitHub](https://github.com/umang-sinha/dynamic-youtube-title)**
 
 
